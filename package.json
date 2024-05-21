@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Brawser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Te1epuzik/NPM-practice-home-work.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "The Simen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Te1epuzik/NPM-practice-home-work/issues"
+  },
+  "homepage": "https://github.com/Te1epuzik/NPM-practice-home-work#readme"
+}
