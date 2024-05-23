@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "babel src -d dist"
-  },
+    "build": "babel src -d dist",
+    "lint": "eslint ."
+n  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/Te1epuzik/NPM-practice-home-work.git"
@@ -22,7 +23,8 @@
   "homepage": "https://github.com/Te1epuzik/NPM-practice-home-work#readme",
   "devDependencies": {
     "@babel/cli": "^7.24.5",
-    "@babel/core": "^7.24.5"
+    "@babel/core": "^7.24.5",
+    "eslint": "^8.57.0"
   },
   "dependencies": {
     "core-js": "^3.37.1"
